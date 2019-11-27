@@ -11,3 +11,5 @@ How to commit
 - click Diff --> Changes
 
 - check what you actually changed in the file and press commit
+
+- you should be able to see it in the History then
