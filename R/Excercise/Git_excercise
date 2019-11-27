@@ -4,7 +4,7 @@ How to commit
 
 . commit initial code with description
 
-- change something in your file
+- change something in your file and save
 
 - go to Git and check the file you want to commit (it should show M)
 
