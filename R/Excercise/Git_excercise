@@ -1,0 +1,13 @@
+How to commit
+
+- have an initial code that you want to save/commit
+
+. commit initial code with description
+
+- change something in your file
+
+- go to Git and check the file you want to commit (it should show M)
+
+- click Diff --> Changes
+
+- check what you actually changed in the file and press commit
